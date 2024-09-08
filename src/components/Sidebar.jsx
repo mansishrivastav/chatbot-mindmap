@@ -1,8 +1,7 @@
 
 import React from 'react';
 import { sidebar } from '../utils/constants';
-import { RxHamburgerMenu } from "react-icons/rx";
-import { MdArrowForwardIos } from "react-icons/md";
+import {MdArrowForwardIos, RxHamburgerMenu } from  '../utils/imports'
 
 
 const Sidebar = ({ isOpen, setIsOpen }) => {

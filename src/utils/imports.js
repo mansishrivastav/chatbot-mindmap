@@ -7,5 +7,6 @@ import { RxHamburgerMenu } from "react-icons/rx";
 import Modal from '../components/Modal';
 import { RxCross2 } from "react-icons/rx";
 import { FaTrash, FaEdit } from 'react-icons/fa';
+import { MdArrowForwardIos } from "react-icons/md";
 
-export {Sidebar, Navbar, Header, Body, IoChevronDownOutline, RxHamburgerMenu, Modal,RxCross2 ,FaTrash, FaEdit  }
+export {Sidebar, Navbar, Header, Body, IoChevronDownOutline, RxHamburgerMenu, Modal,RxCross2 ,FaTrash, FaEdit, MdArrowForwardIos }
